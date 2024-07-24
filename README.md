@@ -11,6 +11,9 @@
 * [Pieter Malan](https://github.com/pmalan-rh)
 * Robert Sandoval
 * [Scott Peters](https://github.com/scottgpeters)
-* Stephen Nimmo
+* [Stephen Nimmo](https://stephennimmo.com)
 * Thomas Hall
 
+Looking for a post-install application to deploy?
+
+[quarkus-demo-api](https://github.com/openshift-tigerteam/quarkus-demo-api)
