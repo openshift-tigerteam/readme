@@ -12,7 +12,7 @@
 * Robert Sandoval
 * [Scott Peters](https://github.com/scottgpeters)
 * [Stephen Nimmo](https://stephennimmo.com)
-* Thomas Hall
+* [Thomas Hall](https://github.com/thomasphall)
 
 Looking for a post-install application to deploy?
 
